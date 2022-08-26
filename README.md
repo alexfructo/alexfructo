@@ -1,4 +1,5 @@
-## Olá, eu sou Alex Fructo
+## Olá, seja bem-vindo!
+
 <div>
   <a href="https://github.com/alexfructo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfructo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
